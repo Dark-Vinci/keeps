@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "\\\\Mac\\Home\\Downloads\\CS4D768 Tutorial 5-Student_OOblob\\Sphere\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{41FB95A7-680B-415B-A1B4-892BA04B9E4A}|Sphere.vcxproj|\\\\Mac\\Home\\Downloads\\CS4D768 Tutorial 5-Student_OOblob\\src\\BlobDemo.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41FB95A7-680B-415B-A1B4-892BA04B9E4A}|Sphere.vcxproj|\\\\Mac\\Home\\Downloads\\CS4D768 Tutorial 5-Student_OOblob\\src\\app.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41FB95A7-680B-415B-A1B4-892BA04B9E4A}|Sphere.vcxproj|\\\\Mac\\Home\\Downloads\\CS4D768 Tutorial 5-Student_OOblob\\src\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "app.cpp",
+              "DocumentMoniker": "\\\\Mac\\Home\\Downloads\\CS4D768 Tutorial 5-Student_OOblob\\src\\app.cpp",
+              "RelativeDocumentMoniker": "..\\src\\app.cpp",
+              "ToolTip": "\\\\Mac\\Home\\Downloads\\CS4D768 Tutorial 5-Student_OOblob\\src\\app.cpp",
+              "RelativeToolTip": "..\\src\\app.cpp",
+              "ViewState": "AgIAAAIAAADgmZmZmVkqwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-02-03T13:56:25.457Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BlobDemo.cpp",
+              "DocumentMoniker": "\\\\Mac\\Home\\Downloads\\CS4D768 Tutorial 5-Student_OOblob\\src\\BlobDemo.cpp",
+              "RelativeDocumentMoniker": "..\\src\\BlobDemo.cpp",
+              "ToolTip": "\\\\Mac\\Home\\Downloads\\CS4D768 Tutorial 5-Student_OOblob\\src\\BlobDemo.cpp",
+              "RelativeToolTip": "..\\src\\BlobDemo.cpp",
+              "ViewState": "AgIAAAgAAABAzszMzMwHwBEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-02-03T13:28:26.99Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "main.cpp",
+              "DocumentMoniker": "\\\\Mac\\Home\\Downloads\\CS4D768 Tutorial 5-Student_OOblob\\src\\main.cpp",
+              "RelativeDocumentMoniker": "..\\src\\main.cpp",
+              "ToolTip": "\\\\Mac\\Home\\Downloads\\CS4D768 Tutorial 5-Student_OOblob\\src\\main.cpp",
+              "RelativeToolTip": "..\\src\\main.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-02-03T13:32:40.648Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(516,5): warning MSB8004: Intermediate Directory does not end with a trailing slash.  This build instance will add the slash as it is required to allow proper evaluation of the Intermediate Directory.
+C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(517,5): warning MSB8004: Output Directory does not end with a trailing slash.  This build instance will add the slash as it is required to allow proper evaluation of the Output Directory.
+  BlobDemo.cpp
+\\mac\Home\Downloads\CS4D768 Tutorial 5-Student_OOblob\src\BlobDemo.cpp(17,49): warning C4305: 'argument': truncation from 'double' to 'const float'
+\\mac\Home\Downloads\CS4D768 Tutorial 5-Student_OOblob\src\BlobDemo.cpp(141,18): warning C4305: 'initializing': truncation from 'double' to 'float'
+\\mac\Home\Downloads\CS4D768 Tutorial 5-Student_OOblob\src\BlobDemo.cpp(151,31): warning C4305: '=': truncation from 'double' to 'float'
+\\mac\Home\Downloads\CS4D768 Tutorial 5-Student_OOblob\src\BlobDemo.cpp(155,31): warning C4305: '=': truncation from 'double' to 'float'
+\\mac\Home\Downloads\CS4D768 Tutorial 5-Student_OOblob\src\BlobDemo.cpp(159,31): warning C4305: '=': truncation from 'double' to 'float'
+\\mac\Home\Downloads\CS4D768 Tutorial 5-Student_OOblob\src\BlobDemo.cpp(163,31): warning C4305: '=': truncation from 'double' to 'float'
+\\mac\Home\Downloads\CS4D768 Tutorial 5-Student_OOblob\src\BlobDemo.cpp(171,31): warning C4305: '=': truncation from 'double' to 'float'
+\\mac\Home\Downloads\CS4D768 Tutorial 5-Student_OOblob\src\BlobDemo.cpp(175,31): warning C4305: '=': truncation from 'double' to 'float'
+\\mac\Home\Downloads\CS4D768 Tutorial 5-Student_OOblob\src\BlobDemo.cpp(190,28): warning C4305: 'argument': truncation from 'double' to 'const float'
+  app.cpp
+  main.cpp
+  particle.cpp
+\\mac\Home\Downloads\CS4D768 Tutorial 5-Student_OOblob\include\coreMath.h(143,24): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+  (compiling source file '../src/particle.cpp')
+  
+\\mac\Home\Downloads\CS4D768 Tutorial 5-Student_OOblob\src\particle.cpp(25,17): warning C4244: 'argument': conversion from 'double' to 'const float', possible loss of data
+\\mac\Home\Downloads\CS4D768 Tutorial 5-Student_OOblob\src\particle.cpp(40,16): warning C4056: overflow in floating-point constant arithmetic
+  pcontacts.cpp
+\\mac\Home\Downloads\CS4D768 Tutorial 5-Student_OOblob\include\coreMath.h(143,24): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+  (compiling source file '../src/pcontacts.cpp')
+  
+\\mac\Home\Downloads\CS4D768 Tutorial 5-Student_OOblob\src\pcontacts.cpp(86,19): warning C4056: overflow in floating-point constant arithmetic
+  pworld.cpp
+\\mac\Home\Downloads\CS4D768 Tutorial 5-Student_OOblob\include\coreMath.h(143,24): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+  (compiling source file '../src/pworld.cpp')
+  
+  Generating Code...
+  Sphere.vcxproj -> \\Mac\Home\Downloads\CS4D768 Tutorial 5-Student_OOblob\Debug\Sphere.exe
