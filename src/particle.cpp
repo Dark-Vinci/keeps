@@ -4,14 +4,18 @@
 #include <assert.h>
 #include <float.h>
 #include <array>
+#include <vector>
 
+// Sets the color of the particle using RGB values
 void Particle::setColor(const float x, const float y, const float z) {
     color = { x, y, z };
 }
 
+// Returns the current color of the particle as an array of three floats (RGB)
 std::array<float, 3> Particle::getColor() {
     return color;
 }
+
 
 
 void Particle::integrate(float duration)
@@ -25,13 +29,13 @@ void Particle::integrate(float duration)
 
 	// Work out the acceleration from the force
     Vector2 resultingAcc = acceleration;
-   resultingAcc.addScaledVector(forceAccum, inverseMass);
+    resultingAcc.addScaledVector(forceAccum, inverseMass);
 
 	// Update linear velocity from the acceleration.
     velocity.addScaledVector(resultingAcc, duration);
 
 	// Impose drag.
-	velocity *= pow(damping, duration);
+	velocity *= (float)pow(damping, duration);
 
 	// Clear the forces.
     clearAccumulator();
@@ -159,4 +163,5 @@ void Particle::addForce(const Vector2 &force)
 {
     forceAccum += force;
 }
+
 

@@ -38,7 +38,7 @@ int main(int argc, char* argv[])
     app = getApplication();
 	float  timeinterval = 10;
 	app->setTimeinterval(timeinterval);
-	createWindow("Blob", app->getheight(), app->getwidth());
+	createWindow("Particle collider", app->getheight(), app->getwidth());
 	glutReshapeFunc(resize);
 	glutDisplayFunc(display); 
 	glutTimerFunc(timeinterval, TimerFunc, 1);

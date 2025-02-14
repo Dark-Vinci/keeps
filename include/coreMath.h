@@ -140,7 +140,7 @@ class Vector2
         /** Gets the magnitude of this vector. */
         float magnitude() const
         {
-            return sqrt(x*x+y*y);
+            return (float)sqrt(x*x+y*y);
         }
 
         /** Gets the squared magnitude of this vector. */

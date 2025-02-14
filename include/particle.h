@@ -9,6 +9,7 @@
 
 #include "coreMath.h"
 #include <array>
+#include <vector>
 
     class Particle
     {
@@ -24,7 +25,6 @@
 	std::array<float, 3> color;
     
 	public:
-		// virtual ~Particle() = default;
 		void setColor(const float x, const float y, const float z);
 		std::array<float, 3> getColor();
 		void integrate(float duration);
